@@ -1,0 +1,23 @@
+
+.piosenka1 {
+	text-align: center;
+	font-family: 'Bitter', serif;
+	max-width: 100%;
+	padding: 50px;
+	margin: 0;
+	background-color: #000;
+}
+
+h1 {
+	color: #f7aa04;
+	font-weight: 700;
+	font-size: 25px;
+}
+
+p { color: #0090ff;
+	font-weight: 400;
+	font-size: 12px;
+	width: 600px; 
+	max-width: 100%;
+	margin-left: 400px;
+}
