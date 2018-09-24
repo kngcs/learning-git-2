@@ -1,5 +1,5 @@
 
-.piosenka1 {
+.song-1 {
 	text-align: center;
 	font-family: 'Bitter', serif;
 	max-width: 100%;
@@ -14,7 +14,8 @@ h1 {
 	font-size: 25px;
 }
 
-p { color: #0090ff;
+p { 
+	color: #0090ff;
 	font-weight: 400;
 	font-size: 12px;
 	width: 600px; 
