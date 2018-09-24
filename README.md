@@ -1,2 +1,1 @@
-# learning-git-2
-repozytorium na potrzeby zadania 7.3
+https://kngcs.github.io/learning-git-2/
