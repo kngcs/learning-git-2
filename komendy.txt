@@ -1,0 +1,4 @@
+autoprefixer-cli -o sty.prefixed.css css/style.css
+
+
+cli index.html
